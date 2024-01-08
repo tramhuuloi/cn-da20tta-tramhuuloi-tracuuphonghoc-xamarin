@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pinch="clr-namespace:Xamarin.Forms.PinchZoomImage;assembly=Xamarin.Forms.PinchZoomImage"
+             x:Class="doanchuyennganh.thongtintracuu">
+    <ContentPage.Content>
+        <Grid Margin="20,0,20,20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+           <Image 
+                   x:Name="imgAnh"
+                   Source="{Binding AnhSource}"
+                   WidthRequest="350"
+                   Margin="10"
+                   BackgroundColor="LightGray"
+                   HeightRequest="350"
+                   Grid.Row="0"
+                   Grid.ColumnSpan="2"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"
+            />
+            <Label Text="Mã phòng: "
+                   Grid.Row="1"
+                   FontAttributes="Bold"
+                   FontSize="20"/>
+            <Label Text="Khu: "
+                   Grid.Row="2"
+                   FontAttributes="Bold"
+                   FontSize="20"/>
+            <Label Text="Tòa nhà: "
+                   Grid.Row="3"
+                   FontAttributes="Bold"
+                   FontSize="20"/>
+            <Label Text="Lầu: "
+                   Grid.Row="4"
+                   FontAttributes="Bold"
+                   FontSize="20"/>
+            <Label Text="{Binding MaPhong}"
+                   Grid.Row="1"
+                   Grid.Column="1"
+                   FontSize="20" />
+            <Label Text="{Binding Khu}"
+                   Grid.Row="2"
+                   Grid.Column="1"
+                   FontSize="20" />
+            <Label Text="{Binding ToaNha}"
+                   Grid.Row="3"
+                   Grid.Column="1"
+                   FontSize="20" />
+            <Label Text="{Binding Lau}"
+                   Grid.Row="4"
+                   Grid.Column="1"
+                   FontSize="20" />
+            <Label Text="{Binding ThongTin}"
+                   Grid.Row="5"
+                   Grid.ColumnSpan="2"
+                   FontSize="20" />
+            <Button Clicked="Button_Clicked"
+                    BackgroundColor="Red"
+                    Text="Vị trí"
+                    Grid.Row="6"
+                    Grid.ColumnSpan="2"
+                    FontSize="20"
+                    />
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
