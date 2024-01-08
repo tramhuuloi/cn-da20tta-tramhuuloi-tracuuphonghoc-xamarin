@@ -2,7 +2,7 @@
 
 ## Mô tả
 
-
+Ứng dụng Tra Cứu Phòng Học với Xamarin là một ứng dụng di động đa nền tảng được xây dựng bằng framework Xamarin, giúp người dùng dễ dàng tìm kiếm và tra cứu thông tin về các phòng học trên cơ sở giáo dục hoặc công ty
 
 ## Tính Năng Chính
 
@@ -12,19 +12,20 @@
 
 ## Hướng Dẫn Cài Đặt
 
-1. Clone dự án từ repository:
+1. Cài đặt Visual Studio 2017:
 
-    ```bash
-    git clone https://github.com/your-username/your-project.git
-    ```
+    Cài đặt mở rộng để chạy dự án:
+   ![image](https://github.com/tramhuuloi/cn-da20tta-tramhuuloi-tracuuphonghoc-xamarin/assets/112936730/f82909dc-4499-43a2-a6e0-1143377af4b7)
+   ![image](https://github.com/tramhuuloi/cn-da20tta-tramhuuloi-tracuuphonghoc-xamarin/assets/112936730/8f515b7b-b885-4071-bc2b-745ea80912cd)
 
-2. Di chuyển vào thư mục dự án:
+
+3. Di chuyển vào thư mục dự án:
 
     ```bash
     cd your-project
     ```
 
-3. Cài đặt các dependencies:
+4. Cài đặt các dependencies:
 
     ```bash
     npm install
