@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:doanchuyennganh"
+             xmlns:pinch="clr-namespace:Xamarin.Forms.PinchZoomImage;assembly=Xamarin.Forms.PinchZoomImage"
+             x:Class="doanchuyennganh.MainPage">
+
+    <StackLayout Margin="20">
+        <!-- Place new controls here -->
+        <Image Source="logotvu.jpg" WidthRequest="180" HorizontalOptions="FillAndExpand" />
+        <Label Text="TRA CỨU PHÒNG HỌC!" 
+           HorizontalOptions="Center"
+           FontSize="20" />
+        <Entry Placeholder="Tên phòng học" x:Name="txtMaPhong"/>
+        <Button Text="Tra cứu" Clicked="Button_Clicked" BackgroundColor="Blue" />
+        <Label Text=""
+               HorizontalTextAlignment="Center"
+               FontSize="20"
+               x:Name="txtname" />
+        <Button Text="Xem thông tin" Clicked="Button_Clicked_1" />
+    </StackLayout>
+
+</ContentPage>

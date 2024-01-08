@@ -1,0 +1,14 @@
+C:\Users\HUU LOI\source\repos\doanchuyennganh\doanchuyennganh\doanchuyennganh\bin\Debug\netstandard2.0\doanchuyennganh.deps.json
+C:\Users\HUU LOI\source\repos\doanchuyennganh\doanchuyennganh\doanchuyennganh\bin\Debug\netstandard2.0\doanchuyennganh.dll
+C:\Users\HUU LOI\source\repos\doanchuyennganh\doanchuyennganh\doanchuyennganh\bin\Debug\netstandard2.0\doanchuyennganh.pdb
+C:\Users\HUU LOI\source\repos\doanchuyennganh\doanchuyennganh\doanchuyennganh\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HUU LOI\source\repos\doanchuyennganh\doanchuyennganh\doanchuyennganh\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\HUU LOI\source\repos\doanchuyennganh\doanchuyennganh\doanchuyennganh\obj\Debug\netstandard2.0\thongtintracuu.xaml.g.cs
+C:\Users\HUU LOI\source\repos\doanchuyennganh\doanchuyennganh\doanchuyennganh\obj\Debug\netstandard2.0\doanchuyennganh.csproj.CoreCompileInputs.cache
+C:\Users\HUU LOI\source\repos\doanchuyennganh\doanchuyennganh\doanchuyennganh\obj\Debug\netstandard2.0\doanchuyennganh.AssemblyInfoInputs.cache
+C:\Users\HUU LOI\source\repos\doanchuyennganh\doanchuyennganh\doanchuyennganh\obj\Debug\netstandard2.0\doanchuyennganh.AssemblyInfo.cs
+C:\Users\HUU LOI\source\repos\doanchuyennganh\doanchuyennganh\doanchuyennganh\obj\Debug\netstandard2.0\doanchuyennganh.dll
+C:\Users\HUU LOI\source\repos\doanchuyennganh\doanchuyennganh\doanchuyennganh\obj\Debug\netstandard2.0\doanchuyennganh.pdb
+C:\Users\HUU LOI\source\repos\doanchuyennganh\doanchuyennganh\doanchuyennganh\obj\Debug\netstandard2.0\doanchuyennganh.csprojAssemblyReference.cache
+C:\Users\HUU LOI\source\repos\doanchuyennganh\doanchuyennganh\doanchuyennganh\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\HUU LOI\source\repos\doanchuyennganh\doanchuyennganh\doanchuyennganh\obj\Debug\netstandard2.0\map.xaml.g.cs
