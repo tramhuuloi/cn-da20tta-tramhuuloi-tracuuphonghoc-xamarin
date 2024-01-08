@@ -1,14 +1,14 @@
-# Tên Đồ Án
+# Xây dựng ứng dụng tra cứu phòng học với Xamarin
 
 ## Mô tả
 
-[Đặt tên đồ án ở đây] là một [miêu tả ngắn về đồ án].
+
 
 ## Tính Năng Chính
 
-- [Tính năng 1]: Mô tả về tính năng đầu tiên của dự án.
-- [Tính năng 2]: Mô tả về tính năng thứ hai của dự án.
-- [Tính năng 3]: Mô tả về tính năng thứ ba của dự án.
+- [Tra cứu phòng học]: Có thể tìm phòng học theo mã phòng, hoặc có thể tìm tòa nhà theo tên của tòa nhà đó.
+- [Tra cứu thông tin phòng học]: Xem được thông tin phòng học (Ví dụ: Khu, mã phòng, tòa nhà, tầng, thông tin chi tiết).
+- [Xem vị trí phòng học]: Hiển thị hình ảnh bản đồ để xem vị trí tòa nhà được đánh dấu ở đâu.
 
 ## Hướng Dẫn Cài Đặt
 
