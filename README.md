@@ -13,7 +13,7 @@
 
 ## Hướng Dẫn Cài Đặt
 
-Bước 1. Cài đặt Visual Studio 2017:
+### Bước 1. Cài đặt Visual Studio 2017:
    - Cài đặt mở rộng để chạy demo dự án:
    ![image](https://github.com/tramhuuloi/cn-da20tta-tramhuuloi-tracuuphonghoc-xamarin/assets/112936730/f82909dc-4499-43a2-a6e0-1143377af4b7)
    ![image](https://github.com/tramhuuloi/cn-da20tta-tramhuuloi-tracuuphonghoc-xamarin/assets/112936730/8f515b7b-b885-4071-bc2b-745ea80912cd)
@@ -22,16 +22,15 @@ Bước 1. Cài đặt Visual Studio 2017:
     ![image](https://github.com/tramhuuloi/cn-da20tta-tramhuuloi-tracuuphonghoc-xamarin/assets/112936730/d31f75a4-a25d-4555-b877-f60a7bb46761)
 
 
-Bước 2. Sau khi cài đặt xong thì lưu file "doanchuyennganh" vào Users/"Username"/source/repos để mở và chạy trên Visual Studio 2017:
+### Bước 2. Sau khi cài đặt xong thì lưu file "doanchuyennganh" vào Users/"Username"/source/repos để mở và chạy trên Visual Studio 2017:
   ![image](https://github.com/tramhuuloi/cn-da20tta-tramhuuloi-tracuuphonghoc-xamarin/assets/112936730/db270e2f-b3d3-4b12-9228-f715fe1613ed)
     - Sau khi làm xong thì mở file doanchuyennganh.sln và chạy
 
 
 ## Tác Giả
 
-Họ và tên: Trầm Hữu Lợi
-Lớp: DA20TTA - Đại học công nghệ thông tin A
-Mã số sinh viên: 110120047
-Sđt: 0385093257
--
+- Họ và tên: Trầm Hữu Lợi
+- Lớp: DA20TTA - Đại học công nghệ thông tin A
+- Mã số sinh viên: 110120047
+- Sđt: 0385093257
 
